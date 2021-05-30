@@ -21,7 +21,7 @@ function stop() {
   document.body.onclick = null;
 }
 
-if(confirm(`  👉[[  OK  ]] ➡  ➡  ➡  ➡  ➡  ➡  ➡  7秒  👉 [[  ☁️  ]]  `)){
+if(confirm(`  👉[[  OK  ]]を押してから 7秒 経ったと思ったら👉 [[  ☁️  ]]を押してください！ `)){
 　　　　　//confirm関数は、戻り値が意味を持ち、OKを押されるとtrue、
                   //キャンセルが押されるとfalseが返る
                   
